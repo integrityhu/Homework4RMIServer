@@ -1,0 +1,2 @@
+REM java -cp c:\temp\jar\server;c:\temp\jar\compute.jar -Djava.rmi.server.codebase=file:/c:/temp/jar/compute.jar -Djava.rmi.server.hostname=localhost -Djava.security.policy=server.policy engine.ComputeEngine
+java -jar rmi-server.jar -cp c:\temp\jar\compute.jar -Djava.rmi.server.codebase=file:/c:/temp/jar/compute.jar -Djava.rmi.server.hostname=localhost -Djava.security.policy=server.policy

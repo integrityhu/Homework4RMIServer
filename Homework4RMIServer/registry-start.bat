@@ -1,0 +1,2 @@
+#start rmiregistry
+rmiregistry
